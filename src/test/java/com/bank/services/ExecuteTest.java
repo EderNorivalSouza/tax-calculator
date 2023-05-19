@@ -11,8 +11,6 @@ import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
 import com.bank.mapper.JsonMapper;
-import com.bank.services.Execute;
-import com.bank.services.TaxCalculator;
 import com.bank.services.impl.ExecuteImpl;
 import com.bank.types.Operation;
 import com.bank.types.Tax;

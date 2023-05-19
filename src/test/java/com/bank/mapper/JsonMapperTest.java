@@ -6,7 +6,6 @@ import java.util.ArrayList;
 
 import org.junit.jupiter.api.Test;
 
-import com.bank.mapper.JsonMapper;
 import com.bank.mapper.impl.JsonMapperImpl;
 import com.bank.types.Operation;
 import com.bank.types.Tax;
