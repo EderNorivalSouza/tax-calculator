@@ -5,13 +5,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.nubank</groupId>
-  <artifactId>nu-profit</artifactId>
+  <groupId>com.bank</groupId>
+  <artifactId>tax-calculator</artifactId>
   <version>1.0</version>
 
-  <name>nu-profit</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <name>tax-calculator</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -84,7 +82,7 @@
             </descriptorRefs>
             <archive>
               <manifest>
-                <mainClass>com/nubank/App</mainClass>
+                <mainClass>com/bank/App</mainClass>
               </manifest>
             </archive>
           </configuration>
@@ -105,7 +103,7 @@
               <manifest>
                 <addClasspath>true</addClasspath>
                 <mainClass>
-                  com/nubank/App
+                  com/bank/App
                 </mainClass>
               </manifest>
             </archive>

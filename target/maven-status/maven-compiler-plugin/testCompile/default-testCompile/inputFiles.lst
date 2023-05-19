@@ -1,4 +1,4 @@
-/home/gasppar/repo/nu-profit/src/test/java/com/nubank/AppTest.java
-/home/gasppar/repo/nu-profit/src/test/java/com/nubank/services/TaxCalculatorTest.java
-/home/gasppar/repo/nu-profit/src/test/java/com/nubank/services/ExecuteTest.java
-/home/gasppar/repo/nu-profit/src/test/java/com/nubank/mapper/JsonMapperTest.java
+/home/gasppar/repo/tax-calculator/src/test/java/com/bank/services/ExecuteTest.java
+/home/gasppar/repo/tax-calculator/src/test/java/com/bank/services/TaxCalculatorTest.java
+/home/gasppar/repo/tax-calculator/src/test/java/com/bank/AppTest.java
+/home/gasppar/repo/tax-calculator/src/test/java/com/bank/mapper/JsonMapperTest.java
