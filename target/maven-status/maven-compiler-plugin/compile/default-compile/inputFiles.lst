@@ -1,0 +1,9 @@
+/home/gasppar/repo/nu-profit/src/main/java/com/nubank/mapper/JsonMapper.java
+/home/gasppar/repo/nu-profit/src/main/java/com/nubank/App.java
+/home/gasppar/repo/nu-profit/src/main/java/com/nubank/types/Operation.java
+/home/gasppar/repo/nu-profit/src/main/java/com/nubank/services/TaxCalculator.java
+/home/gasppar/repo/nu-profit/src/main/java/com/nubank/types/Tax.java
+/home/gasppar/repo/nu-profit/src/main/java/com/nubank/services/Execute.java
+/home/gasppar/repo/nu-profit/src/main/java/com/nubank/mapper/impl/JsonMapperImpl.java
+/home/gasppar/repo/nu-profit/src/main/java/com/nubank/services/impl/TaxCalculatorImpl.java
+/home/gasppar/repo/nu-profit/src/main/java/com/nubank/services/impl/ExecuteImpl.java
